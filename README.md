@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BMVC People Manager
 
 Projeto acadêmico desenvolvido com o framework BMVC (Bottle), com dois recursos: **portal** e **banco**.
