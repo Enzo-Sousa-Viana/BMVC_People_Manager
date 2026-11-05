@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BMVC People Manager
 
 Projeto acadêmico desenvolvido com o framework BMVC (Bottle), com dois recursos: **portal** e **banco**.
@@ -134,3 +135,6 @@ bmvc_people_manager/
 ## Observação sobre segurança
 
 O projeto é voltado ao exercício acadêmico. As senhas são armazenadas com hash PBKDF2, mas as sessões são mantidas apenas em memória e o cookie está configurado para desenvolvimento local em HTTP. Para produção, seriam necessários HTTPS, gerenciamento persistente de sessões, proteção CSRF e outras medidas.
+=======
+# BMVC_People_Manager
+>>>>>>> 88ead8578958df35c06558a9485ab9c539ac4338
